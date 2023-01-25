@@ -1,10 +1,10 @@
 import './App.css';
-import Nav from './components/Nav';
+import Layout from './components/layout/Layout';
 
 function App() {
   return (
     <div>
-      <Nav />
+      <Layout />
     </div>
   );
 }
